@@ -13,9 +13,10 @@ function johnLennonFacts(){
         "He was never a vegetarian",
         "He was a choir boy and boy scout",
         "He hated the sound of his own voice"]
+  var moreFacts = []
   var i 
   while (i < facts.length){
      moreFacts = facts.push( facts[i] +" !!! ")
   }
-return morefacts  
+return moreFacts  
 }
