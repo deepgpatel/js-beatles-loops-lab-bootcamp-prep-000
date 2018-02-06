@@ -9,7 +9,7 @@ return beatlesPlay
 
 function johnLennonFacts(facts){
   var moreFacts = []
-  var i 
+  var i = 0
   while (i < facts.length){
      moreFacts.push( facts[i] +" !!! ")
   }
