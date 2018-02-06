@@ -19,9 +19,10 @@ return moreFacts;
 
 function iLoveTheBeatles (n){
   var theBeatles = [];
+  var i = 0;
   do {
-    theBeatles.push("I love the Beatles!")
-  } while 
+    theBeatles.push(n[i] +"I love the Beatles!");
+  } while (i )
   
 }
 
