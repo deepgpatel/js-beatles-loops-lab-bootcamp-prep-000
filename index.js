@@ -19,7 +19,7 @@ return moreFacts;
 
 function iLoveTheBeatles (n){
   var theBeatles = [];
-  var i = 15;
+  var i = 0;
   do {
     theBeatles.push("I love the Beatles!");
     i++;
