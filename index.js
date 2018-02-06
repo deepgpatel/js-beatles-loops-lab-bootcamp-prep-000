@@ -19,11 +19,10 @@ return moreFacts;
 
 function iLoveTheBeatles (n){
   var theBeatles = [];
-  var i = 15;
   do {
     theBeatles.push("I love the Beatles!");
-    i++;
-  } while (i < n.length);
+    n++;
+  } while (15 < n.length);
 return theBeatles;
 }
 
